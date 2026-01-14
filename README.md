@@ -16,7 +16,7 @@ conda activate Spec-ANO
 ```
 
 # Pretrained Models
-A general list of all available checkpoints is available in via our [model zoo](#model-zoo).
+A general list of all available checkpoints is available in https://pan.baidu.com/s/1EWrjxzm67bPkPOwU2iqMKg, extraction code is 'xbwr'.
 
 
 
@@ -30,7 +30,7 @@ pip install git+https://github.com/arogozhnikov/einops.git
 ## Model Training
 
 
-Codes for spectral bases approximation  are in './spectral embedding'
+Codes for spectral bases approximation  are in https://github.com/DYS2108/SBL.
 
 Logs and checkpoints for trained models are saved to `logs`.
 
