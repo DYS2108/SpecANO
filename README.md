@@ -67,10 +67,5 @@ The models can then be found in `models/ldm/<model_spec>`.
 
 
 
-## Coming Soon...
-
-* More inference scripts for conditional LDMs.
-* In the meantime, you can play with our colab notebook https://colab.research.google.com/drive/1xqzUi2iXQXDqXBHQGP9Mqt2YrYW6cx-J?usp=sharing
-
 
 
