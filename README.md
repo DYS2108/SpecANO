@@ -32,7 +32,6 @@ pip install git+https://github.com/arogozhnikov/einops.git
 
 Codes for spectral bases approximation  are in https://github.com/DYS2108/SBL.
 
-Logs and checkpoints for trained models are saved to `logs`.
 
 ### Training autoencoder models
 
